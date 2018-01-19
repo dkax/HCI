@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.CSharp", "HCI.CSharp.csproj", "{8B75039E-A54F-CDE1-2B93-CBDA35A250B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.CSharp.Editor", "HCI.CSharp.Editor.csproj", "{95824D28-264F-1BD9-9427-F8ACB2FC7124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B75039E-A54F-CDE1-2B93-CBDA35A250B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B75039E-A54F-CDE1-2B93-CBDA35A250B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B75039E-A54F-CDE1-2B93-CBDA35A250B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B75039E-A54F-CDE1-2B93-CBDA35A250B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95824D28-264F-1BD9-9427-F8ACB2FC7124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95824D28-264F-1BD9-9427-F8ACB2FC7124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95824D28-264F-1BD9-9427-F8ACB2FC7124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95824D28-264F-1BD9-9427-F8ACB2FC7124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
